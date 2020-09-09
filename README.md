@@ -1,4 +1,3 @@
-![header](header.png)
 
 ### Hi there 👋
 
