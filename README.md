@@ -1,9 +1,9 @@
 ### Hi there 👋
 
+[![Narayan's github stats](https://github-readme-stats.vercel.app/api?username=narayan-k)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **narayan-k/narayan-k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-[![Narayan's github stats](https://github-readme-stats.vercel.app/api?username=narayan-k)](https://github.com/anuraghazra/github-readme-stats)
 
 Here are some ideas to get you started:
 
