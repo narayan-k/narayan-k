@@ -2,6 +2,8 @@
 
 ### Hi there 👋
 
+My name's Narayan and I'm a recent Imperial College graduate looking for a job!
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=narayan-k)
 
 <!--
