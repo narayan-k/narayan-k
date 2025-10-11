@@ -3,10 +3,10 @@
 
 <p align="center">
   <a href="https://github.com/narayan-k">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=narayan-k&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true" />
+    <img height="165" src="https://github-readme-stats-ten-azure-mo62y09b6p.vercel.app/api?username=narayan-k&show_icons=false&hide_border=true&theme=transparent" />
   </a>
   <a href="https://github.com/narayan-k">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=narayan-k&layout=compact&theme=default&hide_border=true" />
+    <img height="165" src="https://github-readme-stats-ten-azure-mo62y09b6p.vercel.app/api/top-langs/?username=narayan-k&layout=compact&hide_border=true&theme=transparent" />
   </a>
 </p>
 
@@ -15,6 +15,8 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=narayan-k&theme=default&hide_border=true&background=FFFFFF00" />
   </a>
 </p>
+
+
 <!--
 **narayan-k/narayan-k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
