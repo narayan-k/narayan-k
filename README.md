@@ -2,9 +2,9 @@
 <h3 align="center">Hey there! 👀👋</h3>
 
 <p align="center">
-  <a href="https://github.com/narayan-k">
+  <!-- <a href="https://github.com/narayan-k">
     <img height="165" src="https://github-readme-stats-ten-azure-mo62y09b6p.vercel.app/api?username=narayan-k&show_icons=false&hide_border=true&theme=transparent" />
-  </a>
+  </a> -->
   <a href="https://github.com/narayan-k">
     <img height="165" src="https://github-readme-stats-ten-azure-mo62y09b6p.vercel.app/api/top-langs/?username=narayan-k&layout=compact&hide_border=true&theme=transparent" />
   </a>
